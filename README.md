@@ -1,11 +1,6 @@
 # Marketplace DApp
-It is a ecommerce themed DApp built on top of Celo Blockchain employing solidity smart contracts.
 
-<i>I came up with the submission for dacade.org for celo 101 development</i>
 
-<br />
-
-## Extra Features Added:
 <ul>
  
 <li><b>Wishlist:</b> 
@@ -33,12 +28,6 @@ Users can filter the products based on their category and the products belonging
 </li>
  <br />
 </ul>
-
-# Demo : 
-Go to  [Marketplace-Dapp](https://sherlockholmes07.github.io/Marketplace/)
-
-<br />
-<br />
 
 # Install
 
